@@ -31,8 +31,6 @@
   <h3>Programming Languages</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=java,js,py,ts,cs,go,kotlin" height="40" alt="programming languages" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdA_2Vi350-blMARDU4bOdXkXaanfyYmPVg&s" alt="asm" width="40" height="40"/>
   </p>
 
@@ -53,12 +51,14 @@
   <!-- Technology Tools -->
   <h3>Technology Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,docker,github,visualstudio,vscode,androidstudio,gradle,idea,vite" height="40" alt="tools" />
+    <img src="https://skillicons.dev/icons?i=git,docker,github,visualstudio,vscode,androidstudio,gradle,vite" height="40" alt="tools" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget" />
     <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo" />
     <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow" />
 	<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/jetbrains_logo_icon_145150.png" height="40" alt="JetBrains">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
+
   </p>
 </div>
 <div align="center">
